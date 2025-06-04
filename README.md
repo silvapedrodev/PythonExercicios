@@ -1,6 +1,6 @@
 # Resolução dos Exercícios – Curso de Python (Curso em Vídeo) ✍🏻
 
-<img src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo.png" width="150px" ></img>
+<img src="https://yt3.googleusercontent.com/ytc/AIdro_m-8zZRJBWMwnaHcJgQv2IRr0dLcqCv1yKcQHgSEZ26jHw=s900-c-k-c0x00ffffff-no-rj" width="80px" ></img>
 
 <br>
 
