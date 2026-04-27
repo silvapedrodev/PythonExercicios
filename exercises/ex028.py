@@ -10,6 +10,6 @@ sleep(2)
 
 
 if res == num:
-    print('PARABÉNS! Você csonseguiu me vencer!')
+    print('PARABÉNS! Você conseguiu me vencer!')
 else:
     print(f'Eu ganhei pensei no número {num} e não no {res}!')

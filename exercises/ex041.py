@@ -1,7 +1,7 @@
 from datetime import date
 anoAtual = date.today().year
 
-nasc = int(input('Ano de nacimento: '))
+nasc = int(input('Ano de nascimento: '))
 idade = anoAtual - nasc
 classif = ''
 print(f'O atleta tem {idade} anos.')
