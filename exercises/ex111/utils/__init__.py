@@ -1,1 +1,1 @@
-from ex111.utils import moeda, dado
+from ex112.utils import moeda

@@ -1,0 +1,1 @@
+from ex112.utils import moeda, dado
